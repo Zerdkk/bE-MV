@@ -4,10 +4,10 @@
 <p align="center">A beautiful, interactive web application created with <strong>love</strong> to ask "Be My Valentine" in the most special way possible.</p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/bE-MV"><img src="https://img.shields.io/badge/status-live-brightgreen.svg" alt="Status"></a>
+  <a href="https://github.com/zuck30/bE-MV"><img src="https://img.shields.io/badge/status-live-brightgreen.svg" alt="Status"></a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-18.2-FF1493.svg" alt="React"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-Animations-blue" alt="CSS3"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.bE-MV" alt="Visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zuck30.bE-MV" alt="Visitors">
 </p>
 
 <p align="center">
