@@ -49,5 +49,4 @@ const FloatingHearts = () => {
     </div>
   );
 };
-
 export default FloatingHearts;
