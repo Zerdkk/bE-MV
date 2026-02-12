@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer>
       <p style={{ fontSize: '2.2rem', marginBottom: '20px' }}>
-        I love you more than yesterday,<br />but less than tomorrow, Shekha.
+        I love you more than yesterday,<br />but less than tomorrow, Baby.
       </p>
       <p>Forever yours,<br /><strong>Ken ❤️</strong></p>
       <p style={{ marginTop: '40px', fontSize: '1rem', opacity: '0.9' }}>
