@@ -165,7 +165,7 @@ function App() {
         <MessageSection />
         
         <section className="section">
-          <h2 className="section-title">For My Beautiful Shekha</h2>
+          <h2 className="section-title">For My Beautiful Baby</h2>
           <InteractiveCards 
             onReasonsClick={showRandomReason}
             onSurpriseClick={showSurprise}
