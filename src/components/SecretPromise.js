@@ -21,7 +21,7 @@ const SecretPromise = ({ isActive, onToggle }) => {
         className={`secret-message ${isActive ? 'active' : ''}`}
       >
         <h2 className="section-title">My Promise to You</h2>
-        <p className="message">My darling Shekha, on this Valentine's Day, I want to make you a promise:</p>
+        <p className="message">My darling Baby, on this Valentine's Day, I want to make you a promise:</p>
         <p className="message">I promise to always cherish you, to support your dreams, to laugh with you in times of joy and hold you close in times of sorrow.</p>
         <p className="message">I promise to be your partner in every adventure, your comfort in every storm, and your biggest fan in every endeavor.</p>
         <p className="message">Most of all, I promise to love you more with each passing day, today, tomorrow, and forever.</p>
