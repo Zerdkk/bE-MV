@@ -1,6 +1,6 @@
 # Be My Valentine 💖
 
-<h1 align="center">For My Beloved Shekha ❤️</h1>
+<h1 align="center">For My Beloved Baby ❤️</h1>
 <p align="center">A beautiful, interactive web application created with <strong>love</strong> to ask "Be My Valentine" in the most special way possible.</p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:ff69b4,100:ff1493&text=For%20Shekha&textBg=false&desc=(with%20all%20my%20love)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=ffffff" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:ff69b4,100:ff1493&text=For%20Baby&textBg=false&desc=(with%20all%20my%20love)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=ffffff" alt="Banner">
 </p>
 
 ## ✨ Features
@@ -116,7 +116,7 @@ The application will open at `http://localhost:3000`
 
 ## 💌 Final Message
 <p align="center">
-  <i>"Created with all the love in my heart for you, Shekha. Every line of code, every animation, every interaction was crafted with you in mind. You are my greatest inspiration and my forever Valentine."</i>
+  <i>"Created with all the love in my heart for you, Baby. Every line of code, every animation, every interaction was crafted with you in mind. You are my greatest inspiration and my forever Valentine."</i>
 </p>
 
 <p align="center">
@@ -124,7 +124,7 @@ The application will open at `http://localhost:3000`
 </p>
 
 <p align="center">
-  <strong>Made with ❤️ for Shekha</strong><br>
+  <strong>Made with ❤️ for Baby</strong><br>
   Happy Valentine's Day! 🌹
 </p>
 
