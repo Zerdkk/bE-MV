@@ -28,7 +28,7 @@ const LoveLetter = () => {
         <div className="poem-line">your hair too.</div>
         <div className="poem-line">At night me, you and our kids are singing at the table,</div>
         <div className="poem-line">For we'll be celebrating your braveness and my name.</div>
-        <div className="poem-line">I will kiss you three times on your left fluffy cheek,</div>
+        <div className="poem-line">I will kiss you three times on your fluffy cheek,</div>
         <div className="poem-line">Five on your right, hundred on your forehead cute as peacock,</div>
         <div className="poem-line">I'll kiss you everytime on the back of your palms,</div>
         <div className="poem-line">And infinite times on your honey lips.</div>
@@ -36,7 +36,7 @@ const LoveLetter = () => {
         <div className="poem-line">my love for this boy is only a dreamer.</div>
         <div className="poem-line">Don't let me wake up, still tasting your name.</div>
         <div className="poem-line">So tell me mama, are you that cute</div>
-        <div className="poem-line">or you're the face of chamomile petals?</div>
+        <div className="poem-line">or you're the face of lilly petals?</div>
       </div>
       
       <p className="message">On this Valentine's Day, I want to thank you for being you. Thank you for loving me, for believing in me, and for walking this journey of life by my side.</p>
