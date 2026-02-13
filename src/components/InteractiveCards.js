@@ -49,8 +49,8 @@ const handleMusicClick = () => {
       
       <div className="card">
         <i className="fas fa-music"></i>
-        <h3>Our Song</h3>
-        <p>A melody that always reminds me of you. Click to play "Beanie" by Chezile.</p>
+        <h3>Your favourite right?</h3>
+        <p>A song that you said you love. Click to play Manko Nischaltama </p>
         <button className="button" onClick={handleMusicClick}>
           {isPlaying ? 'Pause Our Song' : 'Play Our Song'}
         </button>

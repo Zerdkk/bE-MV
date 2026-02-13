@@ -4,7 +4,7 @@ const AudioPlayer = () => {
   return (
     <div className="audio-player-container">
       <h2 className="section-title">Our Special Song</h2>
-      <p className="message">Play "Beanie" by Chezile while you read my letter ❤️</p>
+      <p className="message">Play Manko Nischaltama while you read my letter ❤️</p>
       <audio 
         id="love-song" 
         controls 

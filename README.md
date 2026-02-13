@@ -43,7 +43,7 @@
       </td>
       <td align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHk0cGhjczhyOTc4ZHE1cTl4Mmc3cWR2ZGNicDd5M2l6cHFxZ3R6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlN3tXhzpPX6oBi/giphy.gif" width="100"><br>
-        <strong>Audio Player</strong><br>"Beanie" by Chezile
+        <strong>Audio Player</strong><br>"Maan ko Nischalta"
       </td>
       <td align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hmbGI1d2h5Z2x1Y3JwM2luMGZ3bWVlbndodTZodDlyMWhjdzZ6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41Yj1iK7KakVkksw/giphy.gif" width="100"><br>
