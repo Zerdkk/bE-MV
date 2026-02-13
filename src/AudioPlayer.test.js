@@ -13,5 +13,5 @@ test('renders audio element with correct source', () => {
   const audioElement = document.querySelector('audio');
   expect(audioElement).toBeInTheDocument();
   const sourceElement = audioElement.querySelector('source');
-  expect(sourceElement).toHaveAttribute('src', expect.stringContaining('/audio/Chezile.mp3'));
+  expect(sourceElement).toHaveAttribute('src', expect.stringContaining('/audio/maan.mp3'));
 });

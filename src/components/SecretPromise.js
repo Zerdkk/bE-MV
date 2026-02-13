@@ -25,7 +25,7 @@ const SecretPromise = ({ isActive, onToggle }) => {
         <p className="message">I promise to always cherish you, to support your dreams, to laugh with you in times of joy and hold you close in times of sorrow.</p>
         <p className="message">I promise to be your partner in every adventure, your comfort in every storm, and your biggest fan in every endeavor.</p>
         <p className="message">Most of all, I promise to love you more with each passing day, today, tomorrow, and forever.</p>
-        <p className="signature">With all my love, Ken</p>
+        <p className="signature">With all my love, Sadik</p>
       </div>
     </section>
   );

@@ -98,7 +98,7 @@ The application will open at `http://localhost:3000`
 
 ## 🎵 Featured Music
 - **Song:** "Beanie" by Chezile
-- **Location:** `public/audio/Chezile.mp3`
+- **Location:** `public/audio/maan.mp3`
 - **Special Connection:** Our song that holds precious memories
 
 <p align="center">

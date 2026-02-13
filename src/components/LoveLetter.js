@@ -41,7 +41,7 @@ const LoveLetter = () => {
       
       <p className="message">On this Valentine's Day, I want to thank you for being you. Thank you for loving me, for believing in me, and for walking this journey of life by my side.</p>
       <p className="message">No matter what the future holds, know that my love for you is constant and unwavering. You are, and will always be, the love of my life.</p>
-      <p className="signature">Forever yours,<br />Ken</p>
+      <p className="signature">Forever yours,<br />Sadik</p>
     </div>
   );
 };
