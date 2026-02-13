@@ -22,7 +22,7 @@ const LoveLetter = () => {
         <div className="poem-line">I'm still longing to hear your voice,</div>
         <div className="poem-line">to put me to sleep so I only dream of you.</div>
         <div className="poem-line">My foggy mind is lighter at the thought that you're mine,</div>
-        <div className="poem-line">I will write your name on the island's sand,</div>
+        <div className="poem-line">I will write your name on every land,</div>
         <div className="poem-line">and draw a circle with our daughter's name inside too,</div>
         <div className="poem-line">For she will follow your cuteness and inherit your mind and</div>
         <div className="poem-line">your hair too.</div>
