@@ -10,7 +10,7 @@ const LoveLetter = () => {
       
       <div className="ode-poem">
         <div className="poem-title">Ode to Baby</div>
-        <div className="poem-line">An Ode to Baby, Written while listening to Beanie by Chezile.</div>
+        <div className="poem-line">An Ode to Baby</div>
         <div className="poem-line">Are you that cute</div>
         <div className="poem-line">or you're the face of chamomile petals?</div>
         <div className="poem-line">I love you without knowing how and why.</div>
